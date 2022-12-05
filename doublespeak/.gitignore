@@ -92,3 +92,6 @@ target/
 
 # Hydra logs
 outputs
+
+#data
+data
